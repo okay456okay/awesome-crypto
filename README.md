@@ -318,15 +318,20 @@ DeFi水很深，一不小心可能就采坑了
 
 码农一枚，略懂点程序，喜欢将赚钱点子付诸实践，探索赚钱路径。
 
-- **微信号**：InSightPearl21
-[![远见拾贝微信号](images/远见拾贝微信号.png)
 - **博客**：https://www.insightpearl.com/
-- **公众号**：远见拾贝
-![远见拾贝微信公众号.jpg](images/远见拾贝微信公众号.jpg)
 - **X(Twitter)**：https://x.com/okay456okay
 - **电报频道**：https://t.me/stability_finance  （分享低风险币圈理财机会）
 - **电报账号**：https://t.me/insightpearl
 - **Github仓库**：https://github.com/okay456okay/awesome_crypto （币圈资源大全，入门必备）
+
+- **微信号**：InSightPearl21
+
+
+![远见拾贝微信号](images/远见拾贝微信号.png)
+
+- **公众号**：远见拾贝
+
+![远见拾贝微信公众号](images/远见拾贝微信公众号.png)
 
 
 ## 贡献指南
